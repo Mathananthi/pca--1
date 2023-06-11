@@ -19,8 +19,8 @@ ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel t
   Free memory on the host and the device.
 ~~~
 ### PROGRAM:
-### Name : V.Natchathira Rajan
-### Reg.No : 212221040112
+### Name : Mathan M
+### Reg.No : 212221040102
 
 ### 1. Block.x=1023
 ~~~
